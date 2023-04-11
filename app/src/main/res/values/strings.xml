@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">关河</string>
+    <string name="person">个人信息</string>
+    <string name="more">更多</string>
+    <string name="exit">退出</string>
+    <string name="allow">确认</string>
+    <string name="registered">注册</string>
+    <string name="news">新闻咨询</string>
+    <string name="chat">聊天</string>
+    <string name="game">娱乐活动</string>
+    <string name="send">send</string>
+    <string name="chat_view_test">这是箭头向左的聊天气泡</string>
+    <string name="chat_view_long_text_test">这是很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多很多的文字哦</string>
+    <string name="chat_view_right_text_test">这是箭头向右的聊天气泡</string>
+    <string name="chat_view_left_text_test">这是箭头向左的聊天气泡</string>
+    <string name="score">分值：</string>
+    <string name="rcl_star_result_spit">:</string>
+    <string name="star_luck">星座运势</string>
+    <string name="weather">天气预报</string>
+    <string name="character">性格测试</string>
+    <string name="choice_question">选择测试的题目:</string>
+    <string name="face">笑话大全</string>
+    <string name="add_account">添加账号</string>
+    <string name="exit_account">注销账号</string>
+    <string name="welcome"> </string>
+    <string name="log">查看日志</string>
+    <string name="name">姓名 : </string>
+    <string name="age">年龄 : </string>
+    <string name="area">地域 : </string>
+</resources>
