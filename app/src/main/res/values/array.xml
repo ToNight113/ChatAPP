@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star_model">
+        <item>白羊座</item>
+        <item>双鱼座</item>
+        <item>天蝎座</item>
+        <item>双鱼座</item>
+        <item>金牛座</item>
+        <item>处女座</item>
+        <item>狮子座</item>
+        <item>天秤座</item>
+        <item>巨蟹座</item>
+        <item>双子座</item>
+        <item>摩羯座</item>
+        <item>射手座</item>
+    </string-array>
+    <string-array name="data_model">
+        <item>today</item>
+        <item>tomorrow</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+    <string-array name="question_model">
+        <item>4</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="tab_array">
+        <item>新闻咨询</item>
+        <item>聊天</item>
+        <item>娱乐活动</item>
+    </string-array>
+</resources>
